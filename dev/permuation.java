@@ -1,6 +1,7 @@
 
 /**
  * Write a description of class Permutation2 here.
+ this is a test a java exercise and also a git test
  *
  * @author Yvan Ramos
  * @version (11/09/2019_2)
