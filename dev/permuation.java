@@ -3,7 +3,7 @@
  * Write a description of class Permutation2 here.
  *
  * @author Yvan Ramos
- * @version (11/09/2019)
+ * @version (11/09/2019_2)
  */
 import java.util.ArrayList;
 import java.util.Collections;
